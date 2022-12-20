@@ -21,8 +21,5 @@ public class Main {
 
         thor.display();
 
-
-
-
     }
 }

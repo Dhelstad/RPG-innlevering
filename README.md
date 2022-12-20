@@ -1,6 +1,6 @@
 # RPG
 
-### This package contains classes for creating and managing characters and items in a role-playing game (RPG).
+### This package contains classes for creating and managing characters and items in a role-playing console game (RPG).
 
 Classes
 Mage: represents a character with magical abilities.
@@ -25,6 +25,24 @@ import RPG.Item.Armor;
 import RPG.Item.Slot;
 
 import RPG.Item.Weapon;
+
+### some hero's can equip different weapon types:
+Mages – Staff, Wand<br>
+
+ Rangers – Bow<br>
+
+ Rogues – Dagger, Sword<br>
+
+Warriors – Axe, Hammer, Sword
+
+### and some hero's can also equip different armor types:
+Mages – Cloth<br>
+
+Rangers – Leather, Mail<br>
+
+Rogues – Leather, Mail<br>
+
+Warriors – Mail, Plate<br>
 
 ### You can then create instances of these classes and use their methods to manage your characters and items. For example:
 
