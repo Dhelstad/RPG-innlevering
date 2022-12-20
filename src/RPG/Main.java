@@ -1,6 +1,6 @@
 package RPG;
 
-import RPG.Characters.Mage;
+
 import RPG.Characters.Warrior;
 import RPG.Item.Armor;
 import RPG.Item.Slot;
