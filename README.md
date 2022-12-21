@@ -29,7 +29,7 @@ To run a Java project in IntelliJ IDEA, follow these steps:
 
 3: In the toolbar at the top of the window, click the green "Run" button. This will open a dropdown menu with a list of run configurations.<br>
 
-4: From the dropdown menu, select the configuration that corresponds to the main class of your project. If a configuration does not exist, you can create one by clicking the "Edit Configurations" button and adding a new configuration.<br>
+4: From the dropdown menu, select the configuration that corresponds to the main class of your project.<br>
 
 5:Click the green "Run" button to start the application.
 ***
