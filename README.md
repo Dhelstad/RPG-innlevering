@@ -4,17 +4,17 @@
 
 ### Classes:<br>
 
-Mage: represents a character with magical abilities.
-
-Warrior: represents a character with physical combat abilities.
-
-Rogue: represents a character with stealthy and deceptive abilities.
-
-Ranger: represents a character with a connection to nature and ranged weapon skills.
-
-Armor: represents a piece of armor that a character can equip to increase their defense.
-
-Weapon: represents a weapon that a character can equip to increase their attack power.
+* Mage: represents a character with magical abilities.<br>
+<br>
+* Warrior: represents a character with physical combat abilities.<br>
+<br>
+* Rogue: represents a character with stealthy and deceptive abilities.<br>
+<br>
+* Ranger: represents a character with a connection to nature and ranged weapon skills.<br>
+<br>
+* Armor: represents a piece of armor that a character can equip to increase their defense.<br>
+<br>
+* Weapon: represents a weapon that a character can equip to increase their attack power.
 ***
 # Usage:
 ***
@@ -52,23 +52,23 @@ To run a Java project in IntelliJ IDEA, follow these steps:
 ***
 ### some hero's can equip different weapon types:
 ***
-Mages – Staff, Wand<br>
-
- Rangers – Bow<br>
-
- Rogues – Dagger, Sword<br>
-
-Warriors – Axe, Hammer, Sword
+* Mages – Staff, Wand<br>
+<br>
+* Rangers – Bow<br>
+<br>
+* Rogues – Dagger, Sword<br>
+<br>
+* Warriors – Axe, Hammer, Sword
 ***
 ### and some hero's can also equip different armor types:
 ***
-Mages – Cloth<br>
-
-Rangers – Leather, Mail<br>
-
-Rogues – Leather, Mail<br>
-
-Warriors – Mail, Plate<br>
+* Mages – Cloth<br>
+<br>
+* Rangers – Leather, Mail<br>
+<br>
+* Rogues – Leather, Mail<br>
+<br>
+* Warriors – Mail, Plate<br>
 ***
 ### You can then create instances of these classes and use their methods to manage your characters and items. For example:
 ***
@@ -86,4 +86,4 @@ Warriors – Mail, Plate<br>
 
 ## Additional Notes 
 ***
-The display() method of the Warrior class can be used to display the character's current attributes, including their equipped items.
+The **display()** method of the Warrior class can be used to display the character's current attributes, including their equipped items.
