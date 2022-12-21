@@ -8,6 +8,10 @@ Mage: represents a character with magical abilities.
 
 Warrior: represents a character with physical combat abilities.
 
+Rogue: represents a character with stealthy and deceptive abilities.
+
+Ranger: represents a character with a connection to nature and ranged weapon skills.
+
 Armor: represents a piece of armor that a character can equip to increase their defense.
 
 Weapon: represents a weapon that a character can equip to increase their attack power.
