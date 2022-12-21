@@ -24,7 +24,7 @@ public class Main {
 
         thor.display();
 
-        System.out.println("this is a separation line.");
+        System.out.println();
 
         Mage Odin = new Mage("Odin") ;
 
@@ -37,7 +37,7 @@ public class Main {
 
         Odin.display();
 
-        System.out.println("this is a separation line.");
+        System.out.println();
 
         Rogue Loke = new Rogue("Loke") ;
 
@@ -45,13 +45,13 @@ public class Main {
         Loke.Equip(dagger);
 
         Armor mail = new Armor("MAIL", 1, Slot.BODY, Armor.Type.MAIL, 7, 1, 2);
-         Loke.Equip(mail);
+        Loke.Equip(mail);
 
 
         Loke.display();
 
 
-        System.out.println("this is a separation line.");
+        System.out.println();
 
         Ranger Balder = new Ranger("Balder") ;
 
@@ -66,3 +66,5 @@ public class Main {
 
     }
 }
+
+
